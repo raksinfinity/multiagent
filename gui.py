@@ -1,3 +1,5 @@
+#1094298_thesis_research
+#Computer Science Research Project Pt1,Pt2,Pt3
 from tkinter.ttk import *
 from tkinter import *
 import numpy as np
