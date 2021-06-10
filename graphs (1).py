@@ -1,3 +1,5 @@
+#Setting the 2d graphs
+#generating 3d graphs
 import numpy as np
 import matplotlib.pyplot as plt 
 import math
