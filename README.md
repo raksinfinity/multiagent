@@ -30,5 +30,11 @@ The learning parameter of Q-learning was varied to levels 0.5-lesser learning ra
 
 Results:
 The Learning in Q-learning showed to be better.
-The learning percentage of cooperation was higher for smaller number of multi-agents.
+The learning percentage of cooperation was higher for smaller number of multi-agents and lower for higher number of agents but with time and greater number of iterations the agents were able to learn cooperation to a greater extent.
+
+![image](https://user-images.githubusercontent.com/55480687/121642089-649f3e00-cad3-11eb-8366-8c669626e2f5.png)
+
+![image](https://user-images.githubusercontent.com/55480687/121642142-7680e100-cad3-11eb-99ce-d8e9551095e7.png)
+
+
  
