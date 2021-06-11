@@ -1,3 +1,4 @@
+#libraries
 from tkinter.ttk import *
 from tkinter import *
 import numpy as np
@@ -81,9 +82,8 @@ class Application(Frame):
 		#self.can.pack()
 		self.createWidgets()
 
-
+#hyper parameters
 def calc():
-	#hyper parameters
 	ep=.7
 	lam=.9
 	nbot=5
