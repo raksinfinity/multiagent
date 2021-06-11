@@ -1,5 +1,4 @@
-# multiagent
-Common Pool of resources and Social Dilemma
+# multiagent in a social dilemma with a common Pool of resource on Mars
  Topic: Colonising Mars: using reinforcement learning on a multi-agent system where the power supply to the agent’s battery is limited.
 
 Today the world focuses on the research of agents (autonomous systems capable of learning 
@@ -33,8 +32,10 @@ The Learning in Q-learning showed to be better.
 The learning percentage of cooperation was higher for smaller number of multi-agents and lower for higher number of agents but with time and greater number of iterations the agents were able to learn cooperation to a greater extent.
 
 ![image](https://user-images.githubusercontent.com/55480687/121642089-649f3e00-cad3-11eb-8366-8c669626e2f5.png)
+A screenshot showing the working of 5 agent rovers with a centralized nuclear reactor. Green indicates Sleep Mode and blue indicates turn Working Mode of the hetrogeneous rover.
 
 ![image](https://user-images.githubusercontent.com/55480687/121642142-7680e100-cad3-11eb-99ce-d8e9551095e7.png)
+Q-learning Vs SARSA
 
-
- 
+ Execution:
+Run the gui.py to see the simulation model.
